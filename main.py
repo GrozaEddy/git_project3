@@ -1,10 +1,10 @@
 # Voronin Eduard Sergeevich
 def my_superfunction():
-    print('Print')
+    print('Hello Pyton')
 
 
 def main():
-    print('My first git ptogram')
+    print('My first git program')
     print("And I change it every day")
     print(1)
 
